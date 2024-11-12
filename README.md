@@ -51,7 +51,7 @@ Below is a screenshot of the dashboard:
 
 You can download the full Excel file from this repository to explore the dashboard interactively in Excel:
 
-[Download the STN Store Analysis Excel File](link-to-your-file.xlsx) 
+[Download the STN Store Analysis Excel File](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN%20store%20data%20analysis.xlsx) 
 
 > **Note**: Make sure Excel macros and interactivity features are enabled for full functionality.
 
