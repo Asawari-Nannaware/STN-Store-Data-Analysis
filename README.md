@@ -40,7 +40,7 @@ This project showcases an interactive Excel dashboard that analyzes and reports 
 
 Below is a screenshot of the dashboard:
 
-![STN Store Annual Report Dashboard](images/STN_Store_data_dashboard.png)
+![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN_Store_data_dashboard.png)
 
 ## How to Use the Dashboard
 
