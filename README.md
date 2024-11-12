@@ -51,8 +51,6 @@ You can download the full Excel file from this repository to explore the dashboa
 
 [Download the STN Store Analysis Excel File](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN%20store%20data%20analysis.xlsx) 
 
-> **Note**: Make sure Excel macros and interactivity features are enabled for full functionality.
-
 ## Key Insights
 
 - **Seasonal Trends**: Sales and order volumes tend to peak around specific months, indicating seasonal demand.
