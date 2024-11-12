@@ -2,6 +2,10 @@
 
 This project showcases an interactive Excel dashboard that analyzes and reports key performance metrics for the STN Store in 2023. The dashboard provides insights into sales, orders, customer demographics, and regional performance, helping stakeholders make data-informed decisions.
 
+## Dashboard Screenshot
+Below is a screenshot of the dashboard:
+
+![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN_Store_data_dashboard.png)
 ## Project Overview
 
 - **Objective**: Analyze STN Store data to extract meaningful insights on sales, order trends, customer demographics, and order distribution across various channels and locations.
@@ -35,12 +39,6 @@ This project showcases an interactive Excel dashboard that analyzes and reports 
 ### 6. Order Status
    - A pie chart indicating the breakdown of order statuses (Delivered, Returned, Refunded, etc.).
    - Gives a clear picture of fulfillment success and any issues with returns or cancellations.
-
-## Dashboard Screenshot
-
-Below is a screenshot of the dashboard:
-
-![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN_Store_data_dashboard.png)
 
 ## How to Use the Dashboard
 
